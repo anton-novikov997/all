@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5374e21-55da-4fcd-8bcb-ab89275b16a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Counter/counter/src/ButtonUni.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/counter/src/ButtonUni1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/counter/src/Counter.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/counter/src/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter/counter/src/ViewCount.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/Accordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/Onoff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/Rating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/UnAccordionPractice.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/UncontrolledAccordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/components/UncontrolledRating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/01-Hello/-01-.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/01-Hello/01.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/02_obj/02.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/02_obj/02.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/03_func/03_func.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/03_func/03_func.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/06-callback/callback.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/08_asosicial_arr/08_01.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Native_Dim/native/src/08_asosicial_arr/08_01.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoAll/todomy/src/Todolist.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoAll/todomy/src/Todolist.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counter/counter/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Counter/counter/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Counter/counter/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Counter/counter/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/KabzdaReact/reactkabzda/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Native_Dim/native/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Native_Dim/native/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoAll/todomy/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/TodoAll/todomy/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Counter/counter" />
+  </component>
+  <component name="ProjectId" id="2Jx6rqpCKtkzhbyqqtqTXhHlHh8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/incubator/hwIgnat",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5374e21-55da-4fcd-8bcb-ab89275b16a9" name="Changes" comment="" />
+      <created>1673007589846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673007589846</updated>
+      <workItem from="1673007592455" duration="21000" />
+    </task>
+    <servers />
+  </component>
+</project>

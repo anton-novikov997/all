@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Counter/counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KabzdaReact/reactkabzda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Native_Dim/native" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TodoAll/repeat/repeat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TodoAll/todo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TodoAll/todomy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dopy/dopyVtornik/dopvtornik" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ekz/ekz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hwIgnat/hws2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obysneniedomashki/obsdomashki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/test" vcs="Git" />
+  </component>
+</project>
